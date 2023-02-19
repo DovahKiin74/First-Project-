@@ -1,0 +1,10 @@
+*{margin: 0; padding: 0;}
+.justify-self-center{justify-self: center;}
+.justify-content-center{justify-items: center; justify-content: center;}
+.align-items-center{align-items: center;}
+.footer-are{overflow: hidden;}
+.footer-area ul li{list-style: none;display: inline-flex;}
+.footer-area ul li a{color: #fff;}
+.bg-image{background: url(images/th.jpg); background-position: center; background-blend-mode: color-burn; background-size: cover;}
+.bg-dark-light{background-color: #0003;}
+.swiper-btn{border: none; border-radius: 4px;}
